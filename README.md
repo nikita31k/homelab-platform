@@ -1,7 +1,6 @@
-# homelab-platform
-Self-hosted infrastructure platform built with Proxmox, pfSense, Terraform, Ansible and Kubernetes.
-
 # Homelab Platform
+
+Self-hosted infrastructure platform built with Proxmox, pfSense, Terraform, Ansible and Kubernetes.
 
 Personal infrastructure platform for learning and practicing:
 
